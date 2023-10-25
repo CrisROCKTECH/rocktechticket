@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+
+
+/** inicio imagen de fondo**/
+
+
+    body {
+        margin: 0;
+        padding: 0;
+        background-image: url('./img/wallpaperfondo.jpeg');
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        
+    }
+    
+/** fin imagen de fondo**/
+
+
+
+
+
+
+/** inicio boton requerimiento**/
+
+
+a .btn {
+    display: flex;
+    position: relative;
+    width: 230px !important;
+    align-items: center;
+    margin: 0 auto;
+    top: 300px;
+
+    
+}
+
+/** fin boton requerimiento**/
+
+
+
+/** inicio formulario requerimiento**/
+
+
+.formulario{
+display: flex;
+position: relative;
+margin: 0 auto;
+text-align: center;
+justify-content: center;
+
+
+}
+
+
+/** fin formulario requerimiento**/
+
+
+
+
+.formulario{
+    background-color: rgb(191, 224, 224);
+}
+
+
+.mel:hover{
+
+color: blue;
+
+}
+
+
+
