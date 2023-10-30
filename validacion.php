@@ -2,8 +2,6 @@
 
 include('conexion.php');
 
-
-
 if(!empty($_POST['correo']) && !empty($_POST['password'])){
 
     $correo = $_POST['correo'];
